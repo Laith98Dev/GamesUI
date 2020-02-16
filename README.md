@@ -12,3 +12,6 @@ Join Games From UI Edit Command From Config
 # Developers
 - Created By PM TEAM 
 - Devs [Laith Youtuber , MR QUEEROSE, Dlyar GamerYT]
+
+# YouTube
+- [Link Channel](https://www.youtube.com/channel/UCM7WWOmQmD8b_fBWQmFxl8w)
