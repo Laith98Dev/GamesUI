@@ -1,3 +1,7 @@
+[![](https://poggit.pmmp.io/shield.state/GamesUI)](https://poggit.pmmp.io/p/GamesUI)
+<a href="https://poggit.pmmp.io/p/GamesUI"><img src="https://poggit.pmmp.io/shield.state/GamesUI"></a>
+[![](https://poggit.pmmp.io/shield.api/GamesUI)](https://poggit.pmmp.io/p/GamesUI)
+<a href="https://poggit.pmmp.io/p/GamesUI"><img src="https://poggit.pmmp.io/shield.api/GamesUI"></a>
 # Info
 - Ver: 1.0.0
 - Plugin GamesUI You Can Join Games UI From The Plugin And You Can Edit Command From Config 
