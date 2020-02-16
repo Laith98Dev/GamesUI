@@ -1,5 +1,8 @@
-# GamesUI
-Join Games From UI Edit Command From Config
+# Info
+- Ver: 1.0.0
+- Plugin GamesUI You Can Join Games UI From The Plugin And You Can Edit Command From Config 
+- Soon Add Custom Name Game!
+- *Please do not take it and say it is yours when Plugin By PM-Plugins Team*
 
 # Commands
 - Usage: /games [to OpenUI to Join Games]
