@@ -32,7 +32,6 @@ class Main extends P implements L {
 	public function onEnable(){
 		
 		@mkdir($this->getDataFolder());
-		$this->getLogger()->notice(base64_decode("UGx1Z2luIEdhbWVzVUkgQnkgUE0gUGx1Z2lucyBUZWFtIENvcHlyaWdodCAyMDIwIA=="));
 		$this->getServer()->getPluginManager()->registerEvents($this,$this);
 		$this->saveResource("config.yml");
 		
@@ -49,13 +48,9 @@ class Main extends P implements L {
 		} elseif($cfg->get("joinCompass") == "true"){
         $this->getLogger()->info(" Join Compass True You Can Change From Config ");
 		}
-		
-		$this->getLogger()->info(" Enabled ");
-		$this->getLogger()->info(" Plugin By PM PLUGINS TEAM ");
 	}
 	
 	public function onDisable() {
-		$this->getLogger()->info(" Disabled ");
 	}
 	
 	public function onCommand(CommandSender $sender, Command $cmd, string $label, array $args) : bool{
@@ -105,8 +100,8 @@ class Main extends P implements L {
         $compass->setCustomName("§eGamesUI");
         $pi->setItem(4, $compass);
 
-		}
 	}
+}
 	
 	
 	 public function setCompass(CL $ev){
