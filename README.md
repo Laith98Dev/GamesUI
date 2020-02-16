@@ -2,6 +2,7 @@
 - Ver: 1.0.0
 - Plugin GamesUI You Can Join Games UI From The Plugin And You Can Edit Command From Config 
 - Soon Add Custom Name Game!
+- You Can set "true" or "false" JoinCompass From Config (When Player Join Get Compass to Open GamesUI
 - *Please do not take it and say it is yours when Plugin By PM-Plugins Team*
 
 # Commands
