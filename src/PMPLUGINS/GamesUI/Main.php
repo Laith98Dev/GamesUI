@@ -21,13 +21,11 @@ use pocketmine\utils\Config;
 use pocketmine\item\Item;
 use pocketmine\inventory\Inventory;
 
+use jojoe77777/FormAPI/FormAPI;
+
 class Main extends P implements L {
 		
 	public $cfg;
-	
-	public function onLoad(){
-		$this->getLogger()->info(" Loading Plugin ");
-	}
 	
 	public function onEnable(){
 		
@@ -38,16 +36,8 @@ class Main extends P implements L {
 		$cfg = new Config($this->getDataFolder() . "config.yml", Config::YAML);
 		//$this->config->set("joinCompass", "false");
 		$cfg->save();
-		if ($cfg->get("ver") == "1.0.0"){
-			$this->getLogger()->info(" Loading Config");
-			$this->getLogger()->info(" Config Done Create!");
-		}
 		
-		if($cfg->get("joinCompass") == "false"){
-        $this->getLogger()->info(" Join Compass False You Can Change from Config ");
-		} elseif($cfg->get("joinCompass") == "true"){
-        $this->getLogger()->info(" Join Compass True You Can Change From Config ");
-		}
+		
 	}
 	
 	public function onDisable() {
