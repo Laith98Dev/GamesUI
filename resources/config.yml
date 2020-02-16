@@ -1,0 +1,59 @@
+---
+#Subscribe to our YouTube channel PM Plugins
+
+# do not touch it ver
+ver: "1.0.0"
+
+# on player join server get compass 
+joinCompass: "false"
+
+
+#JoinGame SkyWars
+
+skywars: "sw join"
+
+
+#JoinGame BedWars
+
+bedwars: "bw join"
+
+
+#JoinGsme SkyMlg
+
+skymlg: "sm join"
+
+
+#JoinGame EggWars
+
+eggwsrs: "ew join"
+
+
+#JoinGame FFA
+
+ffa: "ffa join"
+
+
+#JoinGame MlgBlock
+
+mlgblock: "mb join"
+
+
+#JoinGame Sumo
+
+sumo: "sumo join"
+
+
+#JoinGame SurvivalGames
+
+survivalgames: "sg join"
+
+
+#JoinGame Duel
+
+duel: "duel join"
+
+
+#JoinGame TurfWars
+
+turfwars: "turfwars join"
+...
