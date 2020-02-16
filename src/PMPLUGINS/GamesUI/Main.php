@@ -105,6 +105,7 @@ class Main extends P implements L {
         $compass->setCustomName("§eGamesUI");
         $pi->setItem(4, $compass);
 
+		}
 	}
 	
 	
