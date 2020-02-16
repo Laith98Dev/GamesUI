@@ -1,0 +1,16 @@
+name: GamesUI
+main: PMPLUGINS\GamesUI\Main
+version: 1.0.0
+api: [3.0.0]
+load: POSTWORLD
+author: PM PLUGINS TEAM
+description: COPYRIGHT 2020 PM PLUGINS TEAM -(LAITHYOUTUBER - MRQUEEROSE - DLYAR GAMERYT)-
+website: https://www.youtube.com/channel/UCM7WWOmQmD8b_fBWQmFxl8w
+
+commands: 
+ games:
+    description: "GamesUI By PM-PLUGINS TEAM"
+    usage: "/games"
+ ginfo:
+    description: " info GamesUI By PM-PLUGINS TEAM"
+    usage: "/ginfo"
