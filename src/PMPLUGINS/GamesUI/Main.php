@@ -21,7 +21,7 @@ use pocketmine\utils\Config;
 use pocketmine\item\Item;
 use pocketmine\inventory\Inventory;
 
-use jojoe77777/FormAPI/FormAPI;
+use jojoe77777\FormAPI\FormAPI;
 
 class Main extends P implements L {
 		
